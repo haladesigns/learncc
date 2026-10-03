@@ -1,0 +1,5 @@
+sandbox/
+.claude/worktrees/
+.claude/settings.local.json
+CLAUDE.local.md
+claude-code-notes.pdf
